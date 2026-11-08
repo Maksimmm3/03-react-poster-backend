@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": "1a7c9e2f-4b3d-4e8a-9c1f-6d5e2b8a7c3f",
+      "author": "Anna",
+      "body": "Just finished setting up my first React project with Vite. The dev server is unbelievably fast compared to what I used before."
+    },
+    {
+      "id": "2b8d0f3a-5c4e-4f9b-8d2a-7e6f3c9b8d4a",
+      "author": "Max",
+      "body": "TIL about React Router's data APIs — loaders run before the component renders, which removes that awkward empty-state flash. Game changer."
+    },
+    {
+      "id": "3c9e1a4b-6d5f-4a0c-9e3b-8f7a4d0c9e5b",
+      "author": "Vika",
+      "body": "Spent an hour debugging a form until I realized I forgot to call event.preventDefault(). Classic."
+    },
+    {
+      "id": "4d0f2b5c-7e6a-4b1d-8f4c-9a8b5e1d0f6c",
+      "author": "Daniel",
+      "body": "Nested routes with Outlet finally clicked for me today. Shared layouts suddenly make so much sense."
+    },
+    {
+      "id": "5e1a3c6d-8f7b-4c2e-9a5d-0b9c6f2e1a7d",
+      "author": "Sofia",
+      "body": "Small tip: keep your components under 100 lines. If it grows beyond that, it is probably doing too much."
+    }
+  ]
+}
